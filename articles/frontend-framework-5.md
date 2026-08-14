@@ -12,13 +12,13 @@ published: true
 執筆時点で筆者が公開しているフレームワークはこちらにあります
 https://github.com/AN-Sippo/sippa
 
-**この記事は最終回（第5回）です。**
+**全5回シリーズの最終回（第5回）です。**
 
 - [第1回：基礎編 — Vite×React Router](https://zenn.dev/sippooo/articles/frontend-framework-1)
 - [第2回：SSR編](https://zenn.dev/sippooo/articles/frontend-framework-2)
 - [第3回：React Router編 — Hydration failedの正体とloaderの仕組み](https://zenn.dev/sippooo/articles/frontend-framework-3)
 - [第4回：monorepo編 — binフィールドとprocess.cwd()で『規約』をつくる](https://zenn.dev/sippooo/articles/frontend-framework-4)
-- 第5回：本番ビルド編（この記事）
+- 第5回：本番ビルド編 — ビルドのエントリポイントは2つある（この記事）
 
 :::
 
